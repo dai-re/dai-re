@@ -1,4 +1,5 @@
-
+![](20221204_204133.jpg)
+![](20221204_204318.jpg)
 <img width="150px" src="https://img.shields.io/static/v1?label=Front-end&message=Dev&color=crimson&style=flat-square">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dai-re&label=Profile%20views&color=0e75b6&style=flat" alt="dai-re" /> </p>

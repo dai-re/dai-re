@@ -1,5 +1,19 @@
 ![](20221204_204133.jpg)
 ![](20221204_204318.jpg)
+
+Hello 👋 i'm a *junior front - end developer* based in *indonesia.* i'm passionate about cutting - edge , pixel perfect , beautiful interfaces and intuitively implemented *ux.*
+I'm learning *python*
+
+*Main Hompage:*
+https://daire.eu.org/
+
+*My sosial link:*
+https://dai-re.github.io/sosial-link-ii/
+
+*My Repository:*
+https://github.com/dai-re/
+
+
 <img width="150px" src="https://img.shields.io/static/v1?label=Front-end&message=Dev&color=crimson&style=flat-square">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dai-re&label=Profile%20views&color=0e75b6&style=flat" alt="dai-re" /> </p>

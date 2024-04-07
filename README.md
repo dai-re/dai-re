@@ -22,5 +22,3 @@ https://github.com/dai-re/
 <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=dai-re&" alt="">
 
 <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=dai-re&theme=light&show_icons=true" alt="">
-
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=dai-re&theme=light&show_icons=true" alt="">

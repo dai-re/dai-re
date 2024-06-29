@@ -5,10 +5,10 @@ Hello 👋 i'm a *junior front - end developer* based in *indonesia.* i'm passio
 I'm learning *python*
 
 *Main Hompage:*
-https://daire.eu.org/
+https://dairew.my.id/
 
-*My sosial link:*
-https://dai-re.github.io/sosial-link-ii/
+*Sosial Link*
+https://sos.dairew.my.id
 
 *My Repository:*
 https://github.com/dai-re/

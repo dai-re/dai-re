@@ -9,3 +9,6 @@ https://sos.dairew.my.id
 
 *My Repository:*
 https://github.com/dai-re/
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

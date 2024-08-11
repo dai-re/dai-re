@@ -12,5 +12,8 @@ https://github.com/dai-re/
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<center>
+  
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daireit)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?daireit=ffflabs)
+</center>
